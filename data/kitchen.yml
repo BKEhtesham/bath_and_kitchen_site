@@ -4,3 +4,4 @@ kitchen:
   - image: images/3.jpg
   - image: images/1.png
   - image: images/6.png
+  - image: /images/10.png
