@@ -19,4 +19,6 @@ slides:
   - image: /images/slide4.jpg
   - image: /images/slide5.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+“The Bath & Kitchen” store cum experience centre itself define about its presense and identity. We keep it very generic to be undersood by everyone and connect well with all group of audiances building their dream house. Knowingly, Kitchen and bathroom remain the most used space within the house.
+
+The shop owner has vast experiance over 40 years into the business and understand well the smallest hack to guide the customer best possible way to save some bucks.
