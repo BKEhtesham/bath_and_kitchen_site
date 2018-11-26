@@ -1,3 +1,7 @@
 kitchen:
-  - image: /images/vqzhs0gbgwnh39ezhd0h.png
-  - image: /images/logo.jpg
+  - image: /images/bathandkitchen_hettich.png
+  - image: /images/bathandkitchen_hafele.jpg
+  - image: /images/bathandkitchen_dorset.jpg
+  - image: /images/bathandkitchen_godrej.png
+  - image: /images/bathandkitchen_ozone.png
+  - image: /images/bathandkitchen_3m.jpg
