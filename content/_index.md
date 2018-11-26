@@ -9,7 +9,7 @@ seo_description: >-
   The Bath & Kitchen, The bath, The Kitchen, Bathroom fittings,  CP fittings,
   CPVC, UPVC, SWR Pipes, Kitchen fittings, Kitchen Sinks, Noida, Noida Sector
   110, Noida Sector 104, Noida Sector 93, Noida Sector 82
-paragrap_title: About us !!
+paragrap_title: About us +
 google_map_coordinates: '28.537477493286133,77.386474609375'
 business_name: The Bath & Kitchen
 address: >-
