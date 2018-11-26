@@ -7,8 +7,13 @@ seo_keywords: >-
   110, Noida Sector 104, Noida Sector 93, Noida Sector 82
 seo_description: >-
   The Bath & Kitchen, The bath, The Kitchen, Bathroom fittings,  CP fittings,
-  CPVC, UPVC, SWR Pipes, Kitchen fittings, Kitchen Sinks, Noida, Noida Sector
-  110, Noida Sector 104, Noida Sector 93, Noida Sector 82
+  CPVC, UPVC, SWR Pipes, Kitchen fittings, Kitchen Sinks, Door Handels, Door
+  Lock, Motise Lock, Hettich Innotech, Hettich Cargoteck Hettich  Channel,
+  Hettich Hinges, Hanger, Wired Basket Hettich, Supreme Pipes, Supreme Fittings,
+  Jaguar Fittings, Jaguar Faucets, Jaguar CP Fittings, Jaguar Shower, Hindware
+  Sanitry, Hindware One piece cumboard,  Noida, Noida Sector 110, Noida Sector
+  104, Noida Sector 93, Noida Sector 82, Noida Sector 127, Noida Sector 128,
+  Noida Sector 137, Greater Noida
 paragrap_title: About us !!
 google_map_coordinates: '28.537477493286133,77.386474609375'
 business_name: The Bath & Kitchen
