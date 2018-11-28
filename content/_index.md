@@ -8,10 +8,10 @@ seo_keywords: >-
 seo_description: >
   The Bath & Kitchen, The bath, The Kitchen, Bathroom fittings,  CP fittings,
   CPVC, UPVC, SWR Pipes, Kitchen fittings, Kitchen Sinks, Door Handels, Door
-  Lock, Motise Lock, Hettich Innotech, Hettich Cargoteck Hettich  Channel,
+  Lock, Motise ​Lock, Hettich Innotech, Hettich Cargoteck Hettich  Channel,
   Hettich Hinges, Hanger, Wired Basket Hettich, Supreme Pipes, Supreme Fittings,
   Jaguar Fittings, Jaguar Faucets, Jaguar CP Fittings, Jaguar Shower, Hindware
-  Sanitry, Hindware One piece cumboard,  Noida, Noida Sector 110, Noida Sector
+  Sanitry,​ Hindware One piece cumboar​d,  Noida, Noida Sector 110, Noida Sector
   104, Noida Sector 93, Noida Sector 82, Noida Sector 127, Noida Sector 128,
   Noida Sector 137, Greater Noida
 paragrap_title: About us !!
